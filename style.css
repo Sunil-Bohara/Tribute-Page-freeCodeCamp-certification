@@ -51,7 +51,7 @@ body{
 #img-div {
     background-color: #fff;
     width: 98%;
-    margin-inline: 15px;
+    margin-inline: 1%;
     padding: 18px;
     height: auto;
     display: flex;
@@ -83,6 +83,7 @@ body{
     font-size: 1.2rem;
     color: var(--heading-colors);
     margin: 3rem 0;
+    text-align: center;
 }
 #tribute-info ul,
 p{
